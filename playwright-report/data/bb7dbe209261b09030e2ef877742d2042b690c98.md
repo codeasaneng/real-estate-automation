@@ -1,0 +1,341 @@
+# Page snapshot
+
+```yaml
+- generic [ref=e3]:
+  - navigation [ref=e4]:
+    - generic [ref=e5]:
+      - generic [ref=e6]:
+        - link "BestCity" [ref=e8] [cursor=pointer]:
+          - /url: /
+          - img [ref=e9]
+          - generic [ref=e12]: BestCity
+        - button [active] [ref=e14] [cursor=pointer]:
+          - img [ref=e15]
+      - generic [ref=e19]:
+        - link "Home" [ref=e20] [cursor=pointer]:
+          - /url: /
+        - link "Properties" [ref=e21] [cursor=pointer]:
+          - /url: /properties
+        - link "About" [ref=e22] [cursor=pointer]:
+          - /url: /about
+        - link "FAQ" [ref=e23] [cursor=pointer]:
+          - /url: /faq
+        - link "Blog" [ref=e24] [cursor=pointer]:
+          - /url: /blog
+        - button "Connect" [ref=e25] [cursor=pointer]
+  - main [ref=e26]:
+    - generic [ref=e27]:
+      - generic [ref=e28]:
+        - img "Hero background" [ref=e30]
+        - generic [ref=e32]:
+          - heading "Invest and Trade in Real Estate with Cryptocurrency" [level=1] [ref=e33]
+          - paragraph [ref=e34]: Own fractional shares of premium properties through NFTs. Start investing with as little as $10.
+      - generic [ref=e35]:
+        - generic [ref=e36]:
+          - heading "Start Investing in Minutes" [level=2] [ref=e37]
+          - paragraph [ref=e38]: Your journey to crypto-powered real estate investment
+        - generic [ref=e39]:
+          - generic [ref=e41]:
+            - img [ref=e43]
+            - generic [ref=e45]: Step 1
+            - heading "Connect Wallet" [level=3] [ref=e46]
+            - paragraph [ref=e47]: Connect your cryptocurrency wallet to BestCity to start investing.
+          - generic [ref=e49]:
+            - img [ref=e51]
+            - generic [ref=e53]: Step 2
+            - heading "Choose Property" [level=3] [ref=e54]
+            - paragraph [ref=e55]: Browse our marketplace and select properties that match your investment goals.
+          - generic [ref=e57]:
+            - img [ref=e59]
+            - generic [ref=e61]: Step 3
+            - heading "Receive Returns" [level=3] [ref=e62]
+            - paragraph [ref=e63]: Collect monthly rental returns directly to your connected wallet.
+          - generic [ref=e65]:
+            - img [ref=e67]
+            - generic [ref=e69]: Step 4
+            - heading "Flexible Exit" [level=3] [ref=e70]
+            - paragraph [ref=e71]: Sell your property NFTs whenever you want through our marketplace.
+      - generic [ref=e73]:
+        - generic [ref=e74]:
+          - heading "How BestCity Works" [level=2] [ref=e75]
+          - paragraph [ref=e76]: Understanding our tokenized real estate platform
+        - generic [ref=e77]:
+          - generic [ref=e78]:
+            - img [ref=e80]
+            - heading "Tokenization" [level=3] [ref=e82]
+            - paragraph [ref=e83]: Properties are divided into $10 NFT tokens, making real estate investment accessible to everyone.
+          - generic [ref=e84]:
+            - img [ref=e86]
+            - heading "Purchase NFTs" [level=3] [ref=e88]
+            - paragraph [ref=e89]: Buy property NFTs using cryptocurrency, becoming a fractional owner of the property.
+          - generic [ref=e90]:
+            - img [ref=e92]
+            - heading "Monthly Returns" [level=3] [ref=e94]
+            - paragraph [ref=e95]: Receive your share of rental income directly to your wallet each month.
+          - generic [ref=e96]:
+            - img [ref=e98]
+            - heading "Flexible Trading" [level=3] [ref=e100]
+            - paragraph [ref=e101]: Hold for passive income or sell your NFTs on our marketplace at any time.
+      - generic [ref=e102]:
+        - generic [ref=e103]:
+          - heading "Featured Investment Opportunities" [level=2] [ref=e104]
+          - paragraph [ref=e105]: Curated properties with verified returns and immediate tokenization
+        - generic [ref=e106]:
+          - generic [ref=e107]:
+            - generic [ref=e108]:
+              - img "Luxury Downtown Apartment" [ref=e109]
+              - generic [ref=e110]: Active Investment
+            - generic [ref=e111]:
+              - heading "Luxury Downtown Apartment" [level=3] [ref=e112]
+              - paragraph [ref=e113]: Miami, FL
+              - generic [ref=e114]:
+                - generic [ref=e115]:
+                  - paragraph [ref=e116]: Price
+                  - paragraph [ref=e117]: $850,000
+                  - paragraph [ref=e118]: 425 ETH
+                - generic [ref=e119]:
+                  - paragraph [ref=e120]: ROI
+                  - paragraph [ref=e121]: 7.2% Annual
+              - generic [ref=e122]:
+                - generic [ref=e123]:
+                  - generic [ref=e124]: Total Investors
+                  - generic [ref=e125]: "142"
+                - generic [ref=e126]:
+                  - generic [ref=e127]: Funded
+                  - generic [ref=e128]: 89%
+                - generic [ref=e129]:
+                  - generic [ref=e130]: Min Investment
+                  - generic [ref=e131]: $10
+              - link "Invest Now" [ref=e132] [cursor=pointer]:
+                - /url: /properties/1
+                - text: Invest Now
+                - img [ref=e133]
+          - generic [ref=e135]:
+            - generic [ref=e136]:
+              - img "Modern Tech District Complex" [ref=e137]
+              - generic [ref=e138]: Almost Funded
+            - generic [ref=e139]:
+              - heading "Modern Tech District Complex" [level=3] [ref=e140]
+              - paragraph [ref=e141]: Austin, TX
+              - generic [ref=e142]:
+                - generic [ref=e143]:
+                  - paragraph [ref=e144]: Price
+                  - paragraph [ref=e145]: $1,200,000
+                  - paragraph [ref=e146]: 600 ETH
+                - generic [ref=e147]:
+                  - paragraph [ref=e148]: ROI
+                  - paragraph [ref=e149]: 6.8% Annual
+              - generic [ref=e150]:
+                - generic [ref=e151]:
+                  - generic [ref=e152]: Total Investors
+                  - generic [ref=e153]: "203"
+                - generic [ref=e154]:
+                  - generic [ref=e155]: Funded
+                  - generic [ref=e156]: 95%
+                - generic [ref=e157]:
+                  - generic [ref=e158]: Min Investment
+                  - generic [ref=e159]: $10
+              - link "Invest Now" [ref=e160] [cursor=pointer]:
+                - /url: /properties/2
+                - text: Invest Now
+                - img [ref=e161]
+          - generic [ref=e163]:
+            - generic [ref=e164]:
+              - img "Waterfront Commercial Space" [ref=e165]
+              - generic [ref=e166]: New Listing
+            - generic [ref=e167]:
+              - heading "Waterfront Commercial Space" [level=3] [ref=e168]
+              - paragraph [ref=e169]: Seattle, WA
+              - generic [ref=e170]:
+                - generic [ref=e171]:
+                  - paragraph [ref=e172]: Price
+                  - paragraph [ref=e173]: $2,100,000
+                  - paragraph [ref=e174]: 1050 ETH
+                - generic [ref=e175]:
+                  - paragraph [ref=e176]: ROI
+                  - paragraph [ref=e177]: 7.5% Annual
+              - generic [ref=e178]:
+                - generic [ref=e179]:
+                  - generic [ref=e180]: Total Investors
+                  - generic [ref=e181]: "89"
+                - generic [ref=e182]:
+                  - generic [ref=e183]: Funded
+                  - generic [ref=e184]: 45%
+                - generic [ref=e185]:
+                  - generic [ref=e186]: Min Investment
+                  - generic [ref=e187]: $10
+              - link "Invest Now" [ref=e188] [cursor=pointer]:
+                - /url: /properties/3
+                - text: Invest Now
+                - img [ref=e189]
+      - generic [ref=e192]:
+        - generic [ref=e193]:
+          - heading "Why Choose BestCity" [level=2] [ref=e194]
+          - paragraph [ref=e195]: Experience the future of real estate investment
+        - generic [ref=e196]:
+          - generic [ref=e197]:
+            - img [ref=e198]
+            - heading "Profitability" [level=3] [ref=e200]
+            - paragraph [ref=e201]: Target average annual returns of 7% through strategic property investments and efficient management.
+          - generic [ref=e202]:
+            - img [ref=e203]
+            - heading "Liquidity" [level=3] [ref=e205]
+            - paragraph [ref=e206]: Trade your property NFTs anytime on our marketplace, providing unprecedented real estate liquidity.
+          - generic [ref=e207]:
+            - img [ref=e208]
+            - heading "No Hidden Fees" [level=3] [ref=e210]
+            - paragraph [ref=e211]: Transparent pricing with no entry, exit, or capital gains fees. What you see is what you get.
+          - generic [ref=e212]:
+            - img [ref=e213]
+            - heading "Hassle-Free Management" [level=3] [ref=e215]
+            - paragraph [ref=e216]: BestCity handles all property management aspects, from maintenance to tenant relations.
+      - generic [ref=e218]:
+        - heading "Ready to Start Investing?" [level=2] [ref=e219]
+        - paragraph [ref=e220]: Join thousands of investors already earning passive income through tokenized real estate.
+        - generic [ref=e221]:
+          - link "Browse Properties" [ref=e222] [cursor=pointer]:
+            - /url: /properties
+          - button "Connect Wallet" [ref=e223] [cursor=pointer]:
+            - img [ref=e224]
+            - text: Connect Wallet
+      - generic [ref=e226]:
+        - generic [ref=e227]:
+          - heading "Latest Insights" [level=1] [ref=e228]
+          - paragraph [ref=e229]: Stay informed with our latest articles and market analysis
+        - generic [ref=e230]:
+          - article [ref=e231]:
+            - 'link "The Future of Real Estate: Cryptocurrency Payments and Blockchain Technology Cryptocurrency The Future of Real Estate: Cryptocurrency Payments and Blockchain Technology Explore how cryptocurrency and blockchain are revolutionizing property transactions and investment opportunities. Sarah Johnson 5 min read" [ref=e232] [cursor=pointer]':
+              - /url: /blog/future-real-estate-crypto-payments
+              - generic [ref=e233]:
+                - 'img "The Future of Real Estate: Cryptocurrency Payments and Blockchain Technology" [ref=e234]'
+                - generic [ref=e235]: Cryptocurrency
+              - generic [ref=e236]:
+                - 'heading "The Future of Real Estate: Cryptocurrency Payments and Blockchain Technology" [level=2] [ref=e237]'
+                - paragraph [ref=e238]: Explore how cryptocurrency and blockchain are revolutionizing property transactions and investment opportunities.
+                - generic [ref=e239]:
+                  - img [ref=e240]
+                  - generic [ref=e243]: Sarah Johnson
+                  - img [ref=e244]
+                  - generic [ref=e247]: 5 min read
+          - article [ref=e248]:
+            - link "Understanding Tokenized Real Estate Investment Investment Understanding Tokenized Real Estate Investment A comprehensive guide to property tokenization and how it's making real estate investment more accessible. Michael Chen 7 min read" [ref=e249] [cursor=pointer]:
+              - /url: /blog/understanding-tokenized-real-estate
+              - generic [ref=e250]:
+                - img "Understanding Tokenized Real Estate Investment" [ref=e251]
+                - generic [ref=e252]: Investment
+              - generic [ref=e253]:
+                - heading "Understanding Tokenized Real Estate Investment" [level=2] [ref=e254]
+                - paragraph [ref=e255]: A comprehensive guide to property tokenization and how it's making real estate investment more accessible.
+                - generic [ref=e256]:
+                  - img [ref=e257]
+                  - generic [ref=e260]: Michael Chen
+                  - img [ref=e261]
+                  - generic [ref=e264]: 7 min read
+          - article [ref=e265]:
+            - link "Smart Contracts in Real Estate Transactions Technology Smart Contracts in Real Estate Transactions How smart contracts are streamlining property transactions and reducing costs. David Rodriguez 6 min read" [ref=e266] [cursor=pointer]:
+              - /url: /blog/smart-contracts-real-estate
+              - generic [ref=e267]:
+                - img "Smart Contracts in Real Estate Transactions" [ref=e268]
+                - generic [ref=e269]: Technology
+              - generic [ref=e270]:
+                - heading "Smart Contracts in Real Estate Transactions" [level=2] [ref=e271]
+                - paragraph [ref=e272]: How smart contracts are streamlining property transactions and reducing costs.
+                - generic [ref=e273]:
+                  - img [ref=e274]
+                  - generic [ref=e277]: David Rodriguez
+                  - img [ref=e278]
+                  - generic [ref=e281]: 6 min read
+      - generic [ref=e283]:
+        - generic [ref=e284]:
+          - heading "Frequently Asked Questions" [level=2] [ref=e285]
+          - paragraph [ref=e286]: Find answers to common questions about our platform, cryptocurrency payments, and real estate investment.
+        - generic [ref=e289]:
+          - button "What is BestCity?" [ref=e291] [cursor=pointer]:
+            - generic [ref=e292]: What is BestCity?
+            - img [ref=e293]
+          - button "I want to buy NFTs, what payment methods are accepted?" [ref=e296] [cursor=pointer]:
+            - generic [ref=e297]: I want to buy NFTs, what payment methods are accepted?
+            - img [ref=e298]
+          - button "What is the marketplace, or secondary market?" [ref=e301] [cursor=pointer]:
+            - generic [ref=e302]: What is the marketplace, or secondary market?
+            - img [ref=e303]
+          - button "I sell or buy NFTs during the month. Who receives the rental income for the current month?" [ref=e306] [cursor=pointer]:
+            - generic [ref=e307]: I sell or buy NFTs during the month. Who receives the rental income for the current month?
+            - img [ref=e308]
+          - button "Are transactions on the platform secure?" [ref=e311] [cursor=pointer]:
+            - generic [ref=e312]: Are transactions on the platform secure?
+            - img [ref=e313]
+      - generic [ref=e317]:
+        - generic [ref=e318]:
+          - heading "Join Our Community" [level=2] [ref=e319]
+          - paragraph [ref=e320]: Connect with other crypto real estate investors, share insights, and get early access to new properties.
+          - generic [ref=e321]:
+            - generic [ref=e322]:
+              - img [ref=e325]
+              - generic [ref=e327]:
+                - term [ref=e328]: 10,000+ Members
+                - definition [ref=e329]: Join a growing community of crypto-savvy real estate investors
+            - generic [ref=e330]:
+              - img [ref=e333]
+              - generic [ref=e335]:
+                - term [ref=e336]: Weekly Events
+                - definition [ref=e337]: Educational webinars, market updates, and networking sessions
+        - generic [ref=e339]:
+          - heading "Join Discord" [level=3] [ref=e340]
+          - paragraph [ref=e341]: Get instant access to our community and start connecting with other investors
+          - link "Join Now" [ref=e342] [cursor=pointer]:
+            - /url: https://discord.gg/BestCity
+          - paragraph [ref=e343]:
+            - text: Already a member?
+            - link "Sign in" [ref=e344] [cursor=pointer]:
+              - /url: https://discord.gg/BestCity
+  - contentinfo [ref=e345]:
+    - generic [ref=e346]:
+      - generic [ref=e347]:
+        - generic [ref=e348]:
+          - heading "BestCity" [level=3] [ref=e349]
+          - paragraph [ref=e350]: Your trusted partner in finding the perfect property. We make real estate simple and accessible for everyone.
+        - generic [ref=e351]:
+          - heading "Quick Links" [level=3] [ref=e352]
+          - list [ref=e353]:
+            - listitem [ref=e354]:
+              - link "Properties" [ref=e355] [cursor=pointer]:
+                - /url: /properties
+            - listitem [ref=e356]:
+              - link "About Us" [ref=e357] [cursor=pointer]:
+                - /url: /about
+            - listitem [ref=e358]:
+              - link "FAQ" [ref=e359] [cursor=pointer]:
+                - /url: /faq
+            - listitem [ref=e360]:
+              - link "Privacy Policy" [ref=e361] [cursor=pointer]:
+                - /url: /privacy
+        - generic [ref=e362]:
+          - heading "Contact" [level=3] [ref=e363]
+          - list [ref=e364]:
+            - listitem [ref=e365]:
+              - img [ref=e366]
+              - generic [ref=e368]: +1 (555) 123-4567
+            - listitem [ref=e369]:
+              - img [ref=e370]
+              - generic [ref=e373]: contact@bestcity.com
+            - listitem [ref=e374]:
+              - img [ref=e375]
+              - generic [ref=e378]: 123 Property Street, Real City, RC 12345
+        - generic [ref=e379]:
+          - heading "Connect With Us" [level=3] [ref=e380]
+          - generic [ref=e381]:
+            - link [ref=e382] [cursor=pointer]:
+              - /url: /
+              - img [ref=e383]
+            - link [ref=e385] [cursor=pointer]:
+              - /url: /
+              - img [ref=e386]
+            - link [ref=e390] [cursor=pointer]:
+              - /url: /
+              - img [ref=e391]
+            - link [ref=e393] [cursor=pointer]:
+              - /url: /
+              - img [ref=e394]
+      - paragraph [ref=e397]: © 2025 BestCity. All rights reserved.
+```

@@ -1,0 +1,214 @@
+# Page snapshot
+
+```yaml
+- generic [ref=e3]:
+  - navigation [ref=e4]:
+    - generic [ref=e6]:
+      - link "BestCity" [ref=e8] [cursor=pointer]:
+        - /url: /
+        - img [ref=e9]
+        - generic [ref=e12]: BestCity
+      - generic [ref=e13]:
+        - link "Home" [ref=e14] [cursor=pointer]:
+          - /url: /
+        - link "Properties" [ref=e15] [cursor=pointer]:
+          - /url: /properties
+        - link "About" [ref=e16] [cursor=pointer]:
+          - /url: /about
+        - link "FAQ" [ref=e17] [cursor=pointer]:
+          - /url: /faq
+        - link "Blog" [ref=e18] [cursor=pointer]:
+          - /url: /blog
+        - button "Connect" [ref=e19] [cursor=pointer]
+  - main [ref=e20]:
+    - generic [ref=e21]:
+      - generic [ref=e24]:
+        - heading "Investment Properties" [level=1] [ref=e25]
+        - button [ref=e27] [cursor=pointer]:
+          - img [ref=e28]
+      - generic [ref=e31]:
+        - link "Modern Villa with Pool Active Investment Modern Villa with Pool Beverly Hills, CA Investment Price $850,000 425 ETH Annual ROI 7.2% Monthly Income $520 Appreciation 4.5% Min Investment $10 Funding Progress 89% Available Tokens 9,350 / 85,000 Token Price $10 Invest Now" [ref=e33] [cursor=pointer]:
+          - /url: /properties/1
+          - generic [ref=e34]:
+            - img "Modern Villa with Pool" [ref=e35]
+            - generic [ref=e36]: Active Investment
+          - generic [ref=e37]:
+            - heading "Modern Villa with Pool" [level=3] [ref=e38]
+            - paragraph [ref=e39]: Beverly Hills, CA
+            - generic [ref=e40]:
+              - generic [ref=e41]:
+                - paragraph [ref=e42]: Investment Price
+                - generic [ref=e43]:
+                  - img [ref=e44]
+                  - generic [ref=e46]: $850,000
+                - generic [ref=e47]:
+                  - img [ref=e48]
+                  - generic [ref=e50]: 425 ETH
+              - generic [ref=e51]:
+                - paragraph [ref=e52]: Annual ROI
+                - generic [ref=e53]:
+                  - img [ref=e54]
+                  - generic [ref=e57]: 7.2%
+            - generic [ref=e58]:
+              - generic [ref=e59]:
+                - generic [ref=e60]: Monthly Income
+                - generic [ref=e61]: $520
+              - generic [ref=e62]:
+                - generic [ref=e63]: Appreciation
+                - generic [ref=e64]: 4.5%
+              - generic [ref=e65]:
+                - generic [ref=e66]: Min Investment
+                - generic [ref=e67]: $10
+            - generic [ref=e69]:
+              - generic [ref=e70]: Funding Progress
+              - generic [ref=e71]: 89%
+            - generic [ref=e74]:
+              - generic [ref=e75]:
+                - generic [ref=e76]: Available Tokens
+                - generic [ref=e77]: 9,350 / 85,000
+              - generic [ref=e78]:
+                - generic [ref=e79]: Token Price
+                - generic [ref=e80]: $10
+            - button "Invest Now" [ref=e81]:
+              - text: Invest Now
+              - img [ref=e82]
+        - link "Luxury Penthouse Almost Funded Luxury Penthouse Manhattan, NY Investment Price $1,200,000 600 ETH Annual ROI 6.8% Monthly Income $680 Appreciation 5.2% Min Investment $10 Funding Progress 95% Available Tokens 6,000 / 120,000 Token Price $10 Invest Now" [ref=e85] [cursor=pointer]:
+          - /url: /properties/2
+          - generic [ref=e86]:
+            - img "Luxury Penthouse" [ref=e87]
+            - generic [ref=e88]: Almost Funded
+          - generic [ref=e89]:
+            - heading "Luxury Penthouse" [level=3] [ref=e90]
+            - paragraph [ref=e91]: Manhattan, NY
+            - generic [ref=e92]:
+              - generic [ref=e93]:
+                - paragraph [ref=e94]: Investment Price
+                - generic [ref=e95]:
+                  - img [ref=e96]
+                  - generic [ref=e98]: $1,200,000
+                - generic [ref=e99]:
+                  - img [ref=e100]
+                  - generic [ref=e102]: 600 ETH
+              - generic [ref=e103]:
+                - paragraph [ref=e104]: Annual ROI
+                - generic [ref=e105]:
+                  - img [ref=e106]
+                  - generic [ref=e109]: 6.8%
+            - generic [ref=e110]:
+              - generic [ref=e111]:
+                - generic [ref=e112]: Monthly Income
+                - generic [ref=e113]: $680
+              - generic [ref=e114]:
+                - generic [ref=e115]: Appreciation
+                - generic [ref=e116]: 5.2%
+              - generic [ref=e117]:
+                - generic [ref=e118]: Min Investment
+                - generic [ref=e119]: $10
+            - generic [ref=e121]:
+              - generic [ref=e122]: Funding Progress
+              - generic [ref=e123]: 95%
+            - generic [ref=e126]:
+              - generic [ref=e127]:
+                - generic [ref=e128]: Available Tokens
+                - generic [ref=e129]: 6,000 / 120,000
+              - generic [ref=e130]:
+                - generic [ref=e131]: Token Price
+                - generic [ref=e132]: $10
+            - button "Invest Now" [ref=e133]:
+              - text: Invest Now
+              - img [ref=e134]
+        - link "Waterfront Estate New Listing Waterfront Estate Miami Beach, FL Investment Price $2,100,000 1050 ETH Annual ROI 7.5% Monthly Income $1200 Appreciation 6.1% Min Investment $10 Funding Progress 45% Available Tokens 115,500 / 210,000 Token Price $10 Invest Now" [ref=e137] [cursor=pointer]:
+          - /url: /properties/3
+          - generic [ref=e138]:
+            - img "Waterfront Estate" [ref=e139]
+            - generic [ref=e140]: New Listing
+          - generic [ref=e141]:
+            - heading "Waterfront Estate" [level=3] [ref=e142]
+            - paragraph [ref=e143]: Miami Beach, FL
+            - generic [ref=e144]:
+              - generic [ref=e145]:
+                - paragraph [ref=e146]: Investment Price
+                - generic [ref=e147]:
+                  - img [ref=e148]
+                  - generic [ref=e150]: $2,100,000
+                - generic [ref=e151]:
+                  - img [ref=e152]
+                  - generic [ref=e154]: 1050 ETH
+              - generic [ref=e155]:
+                - paragraph [ref=e156]: Annual ROI
+                - generic [ref=e157]:
+                  - img [ref=e158]
+                  - generic [ref=e161]: 7.5%
+            - generic [ref=e162]:
+              - generic [ref=e163]:
+                - generic [ref=e164]: Monthly Income
+                - generic [ref=e165]: $1200
+              - generic [ref=e166]:
+                - generic [ref=e167]: Appreciation
+                - generic [ref=e168]: 6.1%
+              - generic [ref=e169]:
+                - generic [ref=e170]: Min Investment
+                - generic [ref=e171]: $10
+            - generic [ref=e173]:
+              - generic [ref=e174]: Funding Progress
+              - generic [ref=e175]: 45%
+            - generic [ref=e178]:
+              - generic [ref=e179]:
+                - generic [ref=e180]: Available Tokens
+                - generic [ref=e181]: 115,500 / 210,000
+              - generic [ref=e182]:
+                - generic [ref=e183]: Token Price
+                - generic [ref=e184]: $10
+            - button "Invest Now" [ref=e185]:
+              - text: Invest Now
+              - img [ref=e186]
+  - contentinfo [ref=e188]:
+    - generic [ref=e189]:
+      - generic [ref=e190]:
+        - generic [ref=e191]:
+          - heading "BestCity" [level=3] [ref=e192]
+          - paragraph [ref=e193]: Your trusted partner in finding the perfect property. We make real estate simple and accessible for everyone.
+        - generic [ref=e194]:
+          - heading "Quick Links" [level=3] [ref=e195]
+          - list [ref=e196]:
+            - listitem [ref=e197]:
+              - link "Properties" [ref=e198] [cursor=pointer]:
+                - /url: /properties
+            - listitem [ref=e199]:
+              - link "About Us" [ref=e200] [cursor=pointer]:
+                - /url: /about
+            - listitem [ref=e201]:
+              - link "FAQ" [ref=e202] [cursor=pointer]:
+                - /url: /faq
+            - listitem [ref=e203]:
+              - link "Privacy Policy" [ref=e204] [cursor=pointer]:
+                - /url: /privacy
+        - generic [ref=e205]:
+          - heading "Contact" [level=3] [ref=e206]
+          - list [ref=e207]:
+            - listitem [ref=e208]:
+              - img [ref=e209]
+              - generic [ref=e211]: +1 (555) 123-4567
+            - listitem [ref=e212]:
+              - img [ref=e213]
+              - generic [ref=e216]: contact@bestcity.com
+            - listitem [ref=e217]:
+              - img [ref=e218]
+              - generic [ref=e221]: 123 Property Street, Real City, RC 12345
+        - generic [ref=e222]:
+          - heading "Connect With Us" [level=3] [ref=e223]
+          - generic [ref=e224]:
+            - link [ref=e225] [cursor=pointer]:
+              - /url: /properties
+              - img [ref=e226]
+            - link [ref=e228] [cursor=pointer]:
+              - /url: /properties
+              - img [ref=e229]
+            - link [ref=e233] [cursor=pointer]:
+              - /url: /properties
+              - img [ref=e234]
+            - link [ref=e236] [cursor=pointer]:
+              - /url: /properties
+              - img [ref=e237]
+      - paragraph [ref=e240]: © 2025 BestCity. All rights reserved.
+```

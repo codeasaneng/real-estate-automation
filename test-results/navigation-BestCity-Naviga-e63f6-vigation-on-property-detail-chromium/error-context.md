@@ -1,0 +1,227 @@
+# Page snapshot
+
+```yaml
+- generic [ref=e3]:
+  - navigation [ref=e4]:
+    - generic [ref=e6]:
+      - link "BestCity" [ref=e8] [cursor=pointer]:
+        - /url: /
+        - img [ref=e9]
+        - generic [ref=e12]: BestCity
+      - generic [ref=e13]:
+        - link "Home" [ref=e14] [cursor=pointer]:
+          - /url: /
+        - link "Properties" [ref=e15] [cursor=pointer]:
+          - /url: /properties
+        - link "About" [ref=e16] [cursor=pointer]:
+          - /url: /about
+        - link "FAQ" [ref=e17] [cursor=pointer]:
+          - /url: /faq
+        - link "Blog" [ref=e18] [cursor=pointer]:
+          - /url: /blog
+        - button "Connect" [ref=e19] [cursor=pointer]
+  - main [ref=e20]:
+    - generic [ref=e21]:
+      - generic [ref=e24]:
+        - link "Home" [ref=e25] [cursor=pointer]:
+          - /url: /
+        - generic [ref=e26]: /
+        - link "Properties" [ref=e27] [cursor=pointer]:
+          - /url: /properties
+        - generic [ref=e28]: /
+        - generic [ref=e29]: Modern Villa with Pool
+      - generic [ref=e31]:
+        - generic [ref=e32]:
+          - generic [ref=e33]:
+            - img "Modern Villa with Pool" [ref=e35]
+            - generic [ref=e36]:
+              - img "Modern Villa with Pool - 1" [ref=e38]
+              - img "Modern Villa with Pool - 2" [ref=e40]
+          - generic [ref=e41]:
+            - heading "Property Details" [level=2] [ref=e42]
+            - paragraph [ref=e43]: This stunning modern villa offers luxurious living spaces with high-end finishes throughout. The property has been tokenized for fractional ownership, allowing investors to participate in this premium real estate opportunity with as little as $10.
+            - generic [ref=e44]:
+              - generic [ref=e46]: 3 Parking
+              - generic [ref=e47]:
+                - img [ref=e48]
+                - generic [ref=e53]: 0.5 acres
+              - generic [ref=e54]:
+                - img [ref=e55]
+                - generic [ref=e57]: Built 2020
+              - generic [ref=e58]:
+                - img [ref=e59]
+                - generic [ref=e64]: 142 Investors
+            - heading "Features" [level=3] [ref=e65]
+            - generic [ref=e66]:
+              - generic [ref=e67]:
+                - img [ref=e68]
+                - generic [ref=e71]: Swimming Pool
+              - generic [ref=e72]:
+                - img [ref=e73]
+                - generic [ref=e76]: Smart Home System
+              - generic [ref=e77]:
+                - img [ref=e78]
+                - generic [ref=e81]: Gourmet Kitchen
+              - generic [ref=e82]:
+                - img [ref=e83]
+                - generic [ref=e86]: Home Theater
+              - generic [ref=e87]:
+                - img [ref=e88]
+                - generic [ref=e91]: Wine Cellar
+              - generic [ref=e92]:
+                - img [ref=e93]
+                - generic [ref=e96]: Outdoor Kitchen
+              - generic [ref=e97]:
+                - img [ref=e98]
+                - generic [ref=e101]: Fire Pit
+              - generic [ref=e102]:
+                - img [ref=e103]
+                - generic [ref=e106]: Three-Car Garage
+            - heading "Token Information" [level=3] [ref=e107]
+            - generic [ref=e109]:
+              - generic [ref=e110]:
+                - paragraph [ref=e111]: Token Symbol
+                - paragraph [ref=e112]: VILLA425
+              - generic [ref=e113]:
+                - paragraph [ref=e114]: Token Price
+                - paragraph [ref=e115]: $10
+              - generic [ref=e116]:
+                - paragraph [ref=e117]: Available Tokens
+                - paragraph [ref=e118]: 9,350
+              - generic [ref=e119]:
+                - paragraph [ref=e120]: Total Supply
+                - paragraph [ref=e121]: 85,000
+              - generic [ref=e122]:
+                - paragraph [ref=e123]: Smart Contract
+                - paragraph [ref=e124]: 0x1234...5678
+            - heading "Financial Overview" [level=3] [ref=e125]
+            - generic [ref=e126]:
+              - generic [ref=e127]:
+                - heading "Rental Income" [level=4] [ref=e128]
+                - generic [ref=e129]:
+                  - generic [ref=e130]:
+                    - generic [ref=e131]: Gross Rent
+                    - generic [ref=e132]: $8,500/month
+                  - generic [ref=e133]:
+                    - generic [ref=e134]: Net Rent
+                    - generic [ref=e135]: $7,225/month
+              - generic [ref=e136]:
+                - heading "Expenses" [level=4] [ref=e137]
+                - generic [ref=e138]:
+                  - generic [ref=e139]:
+                    - generic [ref=e140]: Management
+                    - generic [ref=e141]: 8%
+                  - generic [ref=e142]:
+                    - generic [ref=e143]: Maintenance
+                    - generic [ref=e144]: 5%
+                  - generic [ref=e145]:
+                    - generic [ref=e146]: Insurance
+                    - generic [ref=e147]: 2%
+                  - generic [ref=e148]:
+                    - generic [ref=e149]: Property_tax
+                    - generic [ref=e150]: 1.2%
+        - generic [ref=e151]:
+          - generic [ref=e152]:
+            - generic [ref=e153]:
+              - generic [ref=e154]:
+                - paragraph [ref=e155]: Investment Price
+                - generic [ref=e156]:
+                  - img [ref=e157]
+                  - generic [ref=e159]: $850,000
+                - generic [ref=e160]:
+                  - img [ref=e161]
+                  - generic [ref=e163]: 425 ETH
+              - generic [ref=e164]:
+                - paragraph [ref=e165]: Annual ROI
+                - generic [ref=e166]:
+                  - img [ref=e167]
+                  - generic [ref=e170]: 7.2%
+            - generic [ref=e171]:
+              - generic [ref=e172]:
+                - generic [ref=e173]: Rental Yield
+                - generic [ref=e174]: 5.8%
+              - generic [ref=e175]:
+                - generic [ref=e176]: Appreciation
+                - generic [ref=e177]: 4.5%
+              - generic [ref=e178]:
+                - generic [ref=e179]: Total Return
+                - generic [ref=e180]: 10.3%
+            - generic [ref=e181]:
+              - generic [ref=e182]:
+                - generic [ref=e183]: Funding Progress
+                - generic [ref=e184]: 89%
+              - paragraph [ref=e187]: "Min Investment: $10"
+            - link "View 3D version" [ref=e188] [cursor=pointer]:
+              - /url: /property-3d
+              - img [ref=e189]
+              - text: View 3D version
+            - button "Connect Wallet to Invest" [ref=e194] [cursor=pointer]:
+              - img [ref=e195]
+              - text: Connect Wallet to Invest
+            - generic [ref=e197]:
+              - button [ref=e198] [cursor=pointer]:
+                - img [ref=e199]
+              - button [ref=e201] [cursor=pointer]:
+                - img [ref=e202]
+              - button [ref=e204] [cursor=pointer]:
+                - img [ref=e205]
+          - generic [ref=e207]:
+            - generic [ref=e208]:
+              - img "John Doe" [ref=e209]
+              - generic [ref=e210]:
+                - heading "John Doe" [level=3] [ref=e211]
+                - paragraph [ref=e212]: Investment Advisor
+            - generic [ref=e213]:
+              - paragraph [ref=e214]: "Phone: +1 (555) 123-4567"
+              - paragraph [ref=e215]: "Email: john@realestate.com"
+            - button "Schedule Consultation" [ref=e216] [cursor=pointer]
+  - contentinfo [ref=e217]:
+    - generic [ref=e218]:
+      - generic [ref=e219]:
+        - generic [ref=e220]:
+          - heading "BestCity" [level=3] [ref=e221]
+          - paragraph [ref=e222]: Your trusted partner in finding the perfect property. We make real estate simple and accessible for everyone.
+        - generic [ref=e223]:
+          - heading "Quick Links" [level=3] [ref=e224]
+          - list [ref=e225]:
+            - listitem [ref=e226]:
+              - link "Properties" [ref=e227] [cursor=pointer]:
+                - /url: /properties
+            - listitem [ref=e228]:
+              - link "About Us" [ref=e229] [cursor=pointer]:
+                - /url: /about
+            - listitem [ref=e230]:
+              - link "FAQ" [ref=e231] [cursor=pointer]:
+                - /url: /faq
+            - listitem [ref=e232]:
+              - link "Privacy Policy" [ref=e233] [cursor=pointer]:
+                - /url: /privacy
+        - generic [ref=e234]:
+          - heading "Contact" [level=3] [ref=e235]
+          - list [ref=e236]:
+            - listitem [ref=e237]:
+              - img [ref=e238]
+              - generic [ref=e240]: +1 (555) 123-4567
+            - listitem [ref=e241]:
+              - img [ref=e242]
+              - generic [ref=e245]: contact@bestcity.com
+            - listitem [ref=e246]:
+              - img [ref=e247]
+              - generic [ref=e250]: 123 Property Street, Real City, RC 12345
+        - generic [ref=e251]:
+          - heading "Connect With Us" [level=3] [ref=e252]
+          - generic [ref=e253]:
+            - link [ref=e254] [cursor=pointer]:
+              - /url: /properties/1
+              - img [ref=e255]
+            - link [ref=e257] [cursor=pointer]:
+              - /url: /properties/1
+              - img [ref=e258]
+            - link [ref=e262] [cursor=pointer]:
+              - /url: /properties/1
+              - img [ref=e263]
+            - link [ref=e265] [cursor=pointer]:
+              - /url: /properties/1
+              - img [ref=e266]
+      - paragraph [ref=e269]: © 2025 BestCity. All rights reserved.
+```

@@ -1,0 +1,138 @@
+# Page snapshot
+
+```yaml
+- generic [ref=e3]:
+  - navigation [ref=e4]:
+    - generic [ref=e6]:
+      - link "BestCity" [ref=e8] [cursor=pointer]:
+        - /url: /
+        - img [ref=e9]
+        - generic [ref=e12]: BestCity
+      - generic [ref=e13]:
+        - link "Home" [ref=e14] [cursor=pointer]:
+          - /url: /
+        - link "Properties" [ref=e15] [cursor=pointer]:
+          - /url: /properties
+        - link "About" [active] [ref=e16] [cursor=pointer]:
+          - /url: /about
+        - link "FAQ" [ref=e17] [cursor=pointer]:
+          - /url: /faq
+        - link "Blog" [ref=e18] [cursor=pointer]:
+          - /url: /blog
+        - button "Connect" [ref=e19] [cursor=pointer]
+  - main [ref=e20]:
+    - generic [ref=e21]:
+      - generic [ref=e24]:
+        - heading "Revolutionizing Real Estate Investment" [level=1] [ref=e25]
+        - paragraph [ref=e26]: We're bridging the gap between traditional real estate and cryptocurrency, making property investment accessible, secure, and transparent through blockchain technology.
+      - generic [ref=e29]:
+        - generic [ref=e30]:
+          - img [ref=e31]
+          - generic [ref=e33]: $250M+
+          - generic [ref=e34]: Property Transactions
+        - generic [ref=e35]:
+          - img [ref=e36]
+          - generic [ref=e41]: 15,000+
+          - generic [ref=e42]: Active Investors
+        - generic [ref=e43]:
+          - img [ref=e44]
+          - generic [ref=e47]: 45+
+          - generic [ref=e48]: Countries Served
+        - generic [ref=e49]:
+          - img [ref=e50]
+          - generic [ref=e52]: 100%
+          - generic [ref=e53]: Secure Transactions
+      - generic [ref=e55]:
+        - generic [ref=e56]:
+          - heading "Our Mission" [level=2] [ref=e57]
+          - paragraph [ref=e58]: To democratize real estate investment by leveraging blockchain technology, making property ownership accessible to investors worldwide through fractional ownership and cryptocurrency transactions.
+        - generic [ref=e59]:
+          - generic [ref=e60]:
+            - img [ref=e62]
+            - heading "Accessibility" [level=3] [ref=e64]
+            - paragraph [ref=e65]: Making real estate investment available to everyone through fractional ownership and cryptocurrency payments.
+          - generic [ref=e66]:
+            - img [ref=e68]
+            - heading "Security" [level=3] [ref=e70]
+            - paragraph [ref=e71]: Ensuring secure transactions through blockchain technology and smart contracts.
+          - generic [ref=e72]:
+            - img [ref=e74]
+            - heading "Global Reach" [level=3] [ref=e77]
+            - paragraph [ref=e78]: Connecting property investors and opportunities worldwide through our platform.
+      - generic [ref=e80]:
+        - heading "Supported Cryptocurrencies" [level=2] [ref=e81]
+        - generic [ref=e82]:
+          - generic [ref=e83]:
+            - img [ref=e84]
+            - heading "Bitcoin" [level=3] [ref=e86]
+          - generic [ref=e87]:
+            - img [ref=e88]
+            - heading "Ethereum" [level=3] [ref=e90]
+          - generic [ref=e91]:
+            - img [ref=e92]
+            - heading "Chainlink" [level=3] [ref=e94]
+      - generic [ref=e96]:
+        - heading "Recognition & Achievements" [level=2] [ref=e97]
+        - generic [ref=e98]:
+          - generic [ref=e99]:
+            - img [ref=e100]
+            - heading "Best Blockchain Innovation" [level=3] [ref=e103]
+            - paragraph [ref=e104]: Real Estate Tech Awards 2024
+          - generic [ref=e105]:
+            - img [ref=e106]
+            - heading "Fastest Growing PropTech" [level=3] [ref=e109]
+            - paragraph [ref=e110]: Forbes Innovation 2024
+          - generic [ref=e111]:
+            - img [ref=e112]
+            - heading "Most Secure Platform" [level=3] [ref=e114]
+            - paragraph [ref=e115]: Blockchain Security Excellence 2024
+  - contentinfo [ref=e116]:
+    - generic [ref=e117]:
+      - generic [ref=e118]:
+        - generic [ref=e119]:
+          - heading "BestCity" [level=3] [ref=e120]
+          - paragraph [ref=e121]: Your trusted partner in finding the perfect property. We make real estate simple and accessible for everyone.
+        - generic [ref=e122]:
+          - heading "Quick Links" [level=3] [ref=e123]
+          - list [ref=e124]:
+            - listitem [ref=e125]:
+              - link "Properties" [ref=e126] [cursor=pointer]:
+                - /url: /properties
+            - listitem [ref=e127]:
+              - link "About Us" [ref=e128] [cursor=pointer]:
+                - /url: /about
+            - listitem [ref=e129]:
+              - link "FAQ" [ref=e130] [cursor=pointer]:
+                - /url: /faq
+            - listitem [ref=e131]:
+              - link "Privacy Policy" [ref=e132] [cursor=pointer]:
+                - /url: /privacy
+        - generic [ref=e133]:
+          - heading "Contact" [level=3] [ref=e134]
+          - list [ref=e135]:
+            - listitem [ref=e136]:
+              - img [ref=e137]
+              - generic [ref=e139]: +1 (555) 123-4567
+            - listitem [ref=e140]:
+              - img [ref=e141]
+              - generic [ref=e144]: contact@bestcity.com
+            - listitem [ref=e145]:
+              - img [ref=e146]
+              - generic [ref=e149]: 123 Property Street, Real City, RC 12345
+        - generic [ref=e150]:
+          - heading "Connect With Us" [level=3] [ref=e151]
+          - generic [ref=e152]:
+            - link [ref=e153] [cursor=pointer]:
+              - /url: /about
+              - img [ref=e154]
+            - link [ref=e156] [cursor=pointer]:
+              - /url: /about
+              - img [ref=e157]
+            - link [ref=e161] [cursor=pointer]:
+              - /url: /about
+              - img [ref=e162]
+            - link [ref=e164] [cursor=pointer]:
+              - /url: /about
+              - img [ref=e165]
+      - paragraph [ref=e168]: © 2025 BestCity. All rights reserved.
+```
